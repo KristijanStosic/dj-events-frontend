@@ -1,9 +1,9 @@
 import Layout from '@/components/Layout'
 
-export default function HomePage() {
+export default function EventPage() {
   return (
     <Layout>
-      <h1>Home</h1>
+      <h1>Single Event</h1>
     </Layout>
   )
 }
