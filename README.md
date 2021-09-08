@@ -8,7 +8,7 @@
 
 The Strapi backend can be found [here](https://github.com/KristijanStosic/dj-events-backend)
 
-Clone the repo above and run your backend
+Clone the repo above and run npm install.
 
 ### Maps
 
@@ -21,7 +21,7 @@ NEXT_PUBLIC_GOOGLE_MAP_API_KEY = "xxxxx"
 
 ### Run the Server
 
-```bash
+```
 npm run dev
 # or
 yarn dev
