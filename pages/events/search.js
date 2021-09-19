@@ -7,6 +7,7 @@ import { API_URL } from '@/config/index'
 
 export default function SearchPage({ events }) {
   const router = useRouter()
+  console.log(router)
 
   return (
     <Layout title='Search Results'>
